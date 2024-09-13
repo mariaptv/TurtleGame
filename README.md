@@ -53,3 +53,6 @@ color_list = [
     (222, 201, 136), (53, 93, 123), (170, 154, 41),
     ...
 ]
+
+![image](https://github.com/user-attachments/assets/bab4d047-1a90-4b9c-a1d5-f63a4c872c15)
+
