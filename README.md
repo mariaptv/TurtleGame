@@ -7,9 +7,6 @@ This Python project demonstrates two creative programs using the Turtle graphics
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Code Explanation](#code-explanation)
-  - [Dot Grid Generator](#dot-grid-generator)
-  - [Random Color Spiral](#random-color-spiral)
 
 
 ## Introduction
@@ -41,18 +38,7 @@ This project requires Python 3.x and the following modules:
 
 Both scripts will open a window displaying the graphical output. You can close the window by clicking on it.
 
-## Code Explanation
 
-### Dot Grid Generator
+![image](https://github.com/user-attachments/assets/c4f44d1c-916a-4228-af8d-139212d562cf)
 
-This section of the code creates a grid of dots in random colors from a predefined palette of 26 colors:
-
-```python
-color_list = [
-    (202, 164, 110), (236, 239, 243), (149, 75, 50), 
-    (222, 201, 136), (53, 93, 123), (170, 154, 41),
-    ...
-]
-
-![image](https://github.com/user-attachments/assets/bab4d047-1a90-4b9c-a1d5-f63a4c872c15)
 
